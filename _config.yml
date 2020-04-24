@@ -9,13 +9,13 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'https://ethobis.github.io'
+domain_name: 'https://blog.ethobis.kr
 google_analytics: 'UA-122100494-1'
 disqus: true
 disqus_shortname: 'blog-qrsilapzfa'
 
 # Details for the RSS feed generator
-url:            'http://ethobis.github.io'
+url:            'https://blog.ethobis.kr'
 author:         'ethobis'
 
 permalink:       /:year/:title/
