@@ -1,6 +1,6 @@
 name: ethobis
-description: github.io
-meta_description: "ethobis.github.io"
+description: Anyone be a brand
+meta_description: "기술블로그"
 
 aboutPage: true
 
@@ -9,15 +9,14 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://ethobis.github.io'
+google_analytics: 'UA-122100494-1'
+disqus: true
+disqus_shortname: 'blog-qrsilapzfa'
 
 # Details for the RSS feed generator
 url:            'http://ethobis.github.io'
 author:         'ethobis'
-authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 
